@@ -13,7 +13,7 @@
   ],
   "require": {
     "enqueue/enqueue-bundle": "^0.10.0",
-    "doctrine/doctrine-bundle": "^1.4",
+    "doctrine/doctrine-bundle": "^2.1",
     "enqueue/job-queue": "^0.9"
   },
   "extra": {
